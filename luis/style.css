@@ -1,0 +1,169 @@
+/* ======== CONFIGURAÇÕES GERAIS ======== */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #0a0a0a;
+    color: #f1f1f1;
+    overflow-x: hidden;
+}
+
+h1, h2 {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* ======== CABEÇALHO ======== */
+header {
+    background: linear-gradient(90deg, #000428, #004e92);
+    text-align: center;
+    padding: 60px 20px;
+    color: white;
+    box-shadow: 0 0 20px rgba(0, 150, 255, 0.7);
+}
+
+header h1 {
+    font-size: 3em;
+    margin: 0;
+    color: #4db8ff;
+    text-shadow: 0 0 15px #66ccff;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #ffffffa0;
+}
+
+/* ======== MENU ======== */
+nav {
+    background-color: #111;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 15px 0;
+    border-bottom: 2px solid #007bff;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1em;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: #4db8ff;
+    text-shadow: 0 0 10px #4db8ff;
+}
+
+/* ======== SEÇÃO INTRO (IMAGEM E AURA) ======== */
+.intro {
+    position: relative;
+    text-align: center;
+    padding: 80px 20px;
+    background: radial-gradient(circle, #0d0d1a 0%, #000 100%);
+    overflow: hidden;
+}
+
+.goku-img {
+    width: 320px;
+    max-width: 90%;
+    z-index: 2;
+    position: relative;
+    filter: drop-shadow(0 0 20px rgba(0, 153, 255, 0.9));
+}
+
+/* EFEITO DE AURA AO REDOR DO GOKU */
+.aura {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(0, 150, 255, 0.4) 0%, transparent 70%);
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    animation: auraPulse 3s infinite ease-in-out;
+    z-index: 1;
+    filter: blur(40px);
+}
+
+@keyframes auraPulse {
+    0% { transform: translate(-50%, -50%) scale(1); opacity: 0.8; }
+    50% { transform: translate(-50%, -50%) scale(1.3); opacity: 1; }
+    100% { transform: translate(-50%, -50%) scale(1); opacity: 0.8; }
+}
+
+.intro h2 {
+    margin-top: 40px;
+    font-size: 2.5em;
+    color: #4db8ff;
+    text-shadow: 0 0 10px #00bfff;
+}
+
+.intro p {
+    font-size: 1.2em;
+    max-width: 700px;
+    margin: 20px auto;
+    color: #ccc;
+}
+
+/* ======== SEÇÕES DE CONTEÚDO ======== */
+.content {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #101020;
+}
+
+.content h2 {
+    color: #4db8ff;
+    text-shadow: 0 0 10px #007bff;
+}
+
+.content p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.2em;
+    color: #ddd;
+}
+
+/* ======== GALERIA ======== */
+.gallery {
+    background-color: #0a0a0a;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.gallery h2 {
+    color: #4db8ff;
+    margin-bottom: 40px;
+}
+
+.gallery-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.gallery-container img {
+    width: 300px;
+    border-radius: 15px;
+    transition: transform 0.4s, box-shadow 0.4s;
+    box-shadow: 0 0 20px rgba(0, 153, 255, 0.4);
+}
+
+.gallery-container img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 40px rgba(0, 153, 255, 0.9);
+}
+
+/* ======== RODAPÉ ======== */
+footer {
+    background-color: #000;
+    color: #999;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #007bff;
+    font-size: 0.9em;
+}

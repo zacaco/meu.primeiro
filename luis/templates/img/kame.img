@@ -1,0 +1,702 @@
+<!doctype html> <html> <head>
+<!--
+███╗░░░███╗███████╗██████╗░██╗░█████╗░██╗░░░░░░█████╗░██████╗░
+████╗░████║██╔════╝██╔══██╗██║██╔══██╗██║░░░░░██╔══██╗██╔══██╗
+██╔████╔██║█████╗░░██║░░██║██║███████║██║░░░░░███████║██████╦╝
+██║╚██╔╝██║██╔══╝░░██║░░██║██║██╔══██║██║░░░░░██╔══██║██╔══██╗
+██║░╚═╝░██║███████╗██████╔╝██║██║░░██║███████╗██║░░██║██████╦╝
+╚═╝░░░░░╚═╝╚══════╝╚═════╝░╚═╝╚═╝░░╚═╝╚══════╝╚═╝░░╚═╝╚═════╝░
+Hi there, curious developer!.
+Interested in working with a growing company with a startup vibe.
+Visit: aHR0cHM6Ly93d3cubWVkaWFsYWIubGEvbGV2ZXItc2l0ZS1vcGVuaW5ncwo=
+-->
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="preload" href="//wa1.aminoapps.com/static/dist/js/main.66a93eeff.js" as="script"/>
+ <title>Mestre Kame | Wiki | Otanix Amino</title>   <meta name="description" content=" 💣~ Alerta de Spoiler ~💣
+
+ ╔═════════╗
+ ⪡ Mestre Kame ⪢
+ マスターカメ
+ ╚═════════╝
+
+ •═════════ • ════════"> <meta property="description" content=" 💣~ Alerta de Spoiler ~💣
+
+ ╔═════════╗
+ ⪡ Mestre Kame ⪢
+ マスターカメ
+ ╚═════════╝
+
+ •═════════ • ════════"/> <meta property="og:description" content=" 💣~ Alerta de Spoiler ~💣
+
+ ╔═════════╗
+ ⪡ Mestre Kame ⪢
+ マスターカメ
+ ╚═════════╝
+
+ •═════════ • ════════"/>   <meta name="keyword" content="Mestre Kame,Roshi,Jackie Chun"/>  <meta property="og:title" content="Mestre Kame | Wiki | Otanix Amino"/> <meta property="og:site_name" content="Otanix | aminoapps.com"/>  <meta property="og:image" content="http://pa1.aminoapps.com/6329/fc67437efe8218ecdfccda7c19051e528340fec5_00.gif"/> <meta property="twitter:image" content="http://pa1.aminoapps.com/6329/fc67437efe8218ecdfccda7c19051e528340fec5_00.gif"/> <meta property="shareaholic:image" content="http://pa1.aminoapps.com/6329/fc67437efe8218ecdfccda7c19051e528340fec5_00.gif"/>  <meta name="theme-color" content="hsla(216, 100%, 21%, 1.000000)"/>  
+    <link rel="shortcut icon" href="//wa1.aminoapps.com/static/img/favicon.ico?v=1">
+        <link rel="canonical" href="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5">
+ <meta name="apple-itunes-app" content="app-id=1115565187, app-argument=`narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666`"> <link rel="manifest" href="https://aminoapps.com/android-manifest.json?deeplink=narviiapp%3A//x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666">     <meta name="google-site-verification" content="G2Jidij179lrEgjO93rItrGLc2gnRoT7_HkXK0v8OgE" />
+    <!-- Load ANA SDK -->
+    <script async src="https://js.assemblyexchange.com/wana.5.24.0.js"></script>
+<script type='text/javascript'>
+    // window.ana_debug = true;
+
+    /**
+     * Returns the first child of an HTML element
+     * @param {Element} element
+     */
+    function getFirstChild(element) {
+        return element.children[0];
+    }
+
+    document.addEventListener('ANAReady', () => {
+        wanaLoad();
+    });
+
+    const wanaLoad = () => {
+        const gptOptions = {
+            enableSingleRequest: true,
+            sandboxIframe: true,
+            collapseEmptyDivs: false,
+            globalTargeting: {
+                'domain': window.location.hostname,
+                'youtube': 'n',
+            },
+        };
+
+        window.ANAWeb = new ANAWeb({ gptOptions });
+        if (window.mixpanel) {
+            window.mixpanel.people.set({
+              'assembly_uid': window.ANAWeb.uid,
+            });
+            window.mixpanel.register({
+              assembly_uid:  window.ANAWeb.uid
+            });
+        }
+
+    }
+
+    /**
+     * Creates an Assembly ad slot
+     * @deprecated Use createAssemblyAdSlot instead.
+     * By passing an object as parameter instead of individual paramenters, you can
+     * easily extend, remove or change the parameters by adding, removing or changing
+     * new keys to the object.
+     */
+    const createSlot = (slotName, elementID, adUnitID, dimensions, refresh = false, maxWidth = undefined) => {
+        return window.ANAWeb.createSlot(SlotTypeEnum.GOOGLE, {
+            elementID,
+            adUnitID,
+            dimensions,
+            collapseBeforeFill: false,
+            collapseIfNoFill: false,
+        }).then((slot) => {
+            window[slotName] = slot;
+        });
+    }
+
+    /**
+     * Creates an Assembly ad slot.
+     * @see https://whisper.atlassian.net/wiki/spaces/ASTI/pages/4972118021/2.0.12#createSlot(slotType%2C-slotOptions)-BannerSlot
+     * @param { Object } options
+     * @param { string } options.slotName A reference of the slot created is stored under window with the slotName as key
+     * @param { string } options.elementID The ID of the HTML element the ad created will be placed
+     * @param { string } options.adUnitID The GAM ad unit id, eg: `/114106652/wshh_desktop_hp_btf_3`
+     * @param { number[][] } options.dimensions Array of arrays to map to supported sizes
+     * @param { boolean | undefined } options.refresh If true, the refresh function will be executed for the given slot
+     * @param { number | undefined } options.maxWidth ???
+     * @param { boolean | undefined } options.collapseBeforeFill If true the element will remain collapsed unless the ad fills
+     * @param { boolean | undefined } options.collapseIfNoFill If true the the element will collapse if the ad attempt does not fill
+     */
+    function createAssemblyAdSlot(options) {
+        const {
+            slotName,
+            elementID,
+            adUnitID,
+            dimensions,
+            refresh = false,
+            maxWidth = undefined,
+            collapseBeforeFill = false,
+            collapseIfNoFill = false,
+        } = options;
+
+        if (!slotName || typeof slotName !== "string") {
+            throw new Error('slotName (string) is required');
+        }
+
+        if (!elementID || typeof elementID !== "string") {
+            throw new Error('elementID (string) is required');
+        }
+
+        if (!adUnitID || typeof adUnitID !== "string") {
+            throw new Error('adUnitID (string) is required');
+        }
+
+        if (!dimensions || !Array.isArray(dimensions)) {
+            /** @TODO Probably we should do a better validation here */
+            throw new Error('dimensions (number[][]) is required');
+        }
+
+        return window.ANAWeb.createSlot(SlotTypeEnum.GOOGLE, {
+            elementID,
+            adUnitID,
+            dimensions,
+            collapseBeforeFill,
+            collapseIfNoFill,
+        }).then((slot) => {
+            window[slotName] = slot;
+        });
+    }
+
+    const createMobileSlots = () => {
+        var adBlockContainers = [...document.getElementsByClassName("ad-block-container-mobile")];
+        adBlockContainers.forEach((container, index) => {
+            const element = getFirstChild(container);
+
+            if (element.id === `slot-mobile-${index}`) {
+                return;
+            }
+
+            element.id = `slot-mobile-${index}`;
+            element.style.textAlign = 'center';
+
+            window.createSlot(`slotMobile${index}`, `slot-mobile-${index}`, '/114106652/amino_300x250_atf_mw', [[300, 250], [300, 600]]);
+        });
+    }
+
+    /**
+     * Create ad slots for ad containers between posts items in the Community feed.
+     */
+    function fillInBetweenPostsAdSlots() {
+        var slotContainers = [...document.getElementsByClassName("post-list-item--desktop-ad")];
+
+        slotContainers.forEach((container, index) => {
+            const element = getFirstChild(container);
+            const elementID = `slot-desktop-${index}`;
+
+            // If the slot is already created, skip it.
+            if (element.id === elementID) {
+                return;
+            }
+
+            element.id = elementID;
+            element.style.textAlign = "center";
+            const adUnitID = "/114106652/amino_desktop_728x90";
+            const adDimensions = [[728, 90], [970, 250], [970, 90], [960, 250], [300, 250]];
+
+            window.createAssemblyAdSlot({
+                slotName: `slotDesktop${index}`,
+                elementID,
+                adUnitID,
+                dimensions: adDimensions,
+                collapseBeforeFill: false,
+                collapseIfNoFill: false,
+                refresh: true,
+            });
+        })
+    }
+
+    window.createSlot = createSlot;
+    window.createAssemblyAdSlot = createAssemblyAdSlot;
+    window.createMobileSlots = createMobileSlots;
+    window.fillInBetweenPostsAdSlots = fillInBetweenPostsAdSlots;
+
+    // Every debounce needs to have it's method because of overplapping
+    const scrollListener = (className, id) => window.addEventListener("scroll", () => {
+        if (id === 'slot-right-aside') {
+            return debounceInvokeRight(className, id);
+        }
+
+        debounceInvoke(className, id);
+    }, { passive: true });
+
+    const isInViewport = (element, topAdd = false) => {
+        const rect = element.getBoundingClientRect();
+
+        if (topAdd) {
+            return (rect.bottom >= 50);
+        }
+
+        return (
+            // header height is approx. 50px;
+            rect.top >= 50 &&
+            rect.bottom <= (window.innerHeight || document.documentElement.clientHeight)
+        );
+    }
+
+    const debounce = (func, wait) => {
+        let timeout;
+
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+    };
+
+    const debounceInvoke = debounce(function (className, id) {
+        runOnScroll(className, id);
+    }, 1000);
+
+    const debounceInvokeRight = debounce(function (className, id) {
+        runOnScroll(className, id);
+    }, 1000);
+
+    const runOnScroll = (className, id) => {
+        const elementsWithGivenClass = document.getElementsByClassName(className);
+
+        for (let i = 0; i < elementsWithGivenClass.length; i++) {
+            const element = elementsWithGivenClass[i];
+
+            if (isInViewport(element)) {
+                if (getFirstChild(element).id === id) {
+                    break;
+                }
+
+                let itemToMove;
+                let placeToMove;
+
+                [...elementsWithGivenClass].find((item, index) => {
+                    if (getFirstChild(item).id === id) {
+                        itemToMove = item;
+                        placeToMove = index;
+                    }
+                });
+
+                element.appendChild(getFirstChild(itemToMove));
+
+                itemToMove.appendChild(getFirstChild(element));
+
+                getFirstChild(element).style.display = "none";
+            }
+        }
+    };
+
+    window.scrollListener = scrollListener;
+    window.isInViewport = isInViewport;
+</script>
+ <link rel="stylesheet" href="//wa1.aminoapps.com/static/dist/css/desktop-style.d793f64be.css"> 
+
+          <script>
+            window.ServerData = window.ServerData || {};
+        </script>
+  <style type="text/css" class="custom">
+    body { --community-color: hsla(216, 100%, 33%, 1.000000); }
+    .community-bg { background-color: hsla(216, 100%, 33%, 1.000000); }
+    .community-color, .community-color:hover, .community-color:visited, .community-color:link, .community-color:active {
+        color: hsla(216, 100%, 33%, 1.000000); }
+    .community-bg-dark { background-color: hsla(216, 100%, 21%, 1.000000); }
+    .community-color-dark, .community-color-dark:hover, .community-color-dark:visited, .community-color-dark:link, .community-color-dark:active { color: hsla(216, 100%, 21%, 1.000000); }
+    *::selection { background: hsla(216, 100%, 33%, 1.000000); color: white; }
+
+        @media (min-width: 640px) { body { background-image: url(//pm1.aminoapps.com/6397/10584b2a1ff4b44ba9c00025072c9829f92d6881_00.jpg); } }
+    </style>  <style>
+    @media (min-width: 1206px) {
+        section.global-body {
+            max-width: 1186px;
+        }
+
+        .home-section-nav .home-fixed-container {
+            max-width: 577px;
+        }
+
+        .global-header>.content .container {
+            max-width: 1186px;
+        }
+
+        section.post-list.new-post-list>.list-item {
+            max-width: 280px;
+        }
+    }
+
+    @media (min-width: 1493px) {
+        section.global-body {
+            max-width: 1483px;
+        }
+
+        .home-section-nav .home-fixed-container {
+            max-width: 873px;
+        }
+
+        .global-header>.content .container {
+            max-width: 1483px;
+        }
+    }
+</style>         <script type="application/ld+json">{"@context": "http://schema.org", "@type": "Article", "author": {"@type": "Person", "name": "\u23ed\u00a9\u2206Wil\u00ae\u23ee\u2122", "url": "https://aminoapps.com/c/otanix/page/user/c-wil-r-tm/Q4ZQ_GwtJfeMw7bQNGlQ8pLaDQdpXJDbNr"}, "dateModified": "2017-03-09T12:16:29Z", "datePublished": "2017-03-09T12:16:29Z", "headline": "Mestre Kame", "image": {"@type": "ImageObject", "url": "http://pa1.aminoapps.com/6329/fc67437efe8218ecdfccda7c19051e528340fec5_00.gif"}, "mainEntityOfPage": "https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5", "publisher": {"@type": "Organization", "logo": {"@type": "ImageObject", "height": 60, "url": "http://aminoapps.com/static/img/amino-logo-ld.png", "width": 179}, "name": "AminoApps", "url": "http://aminoapps.com"}}</script>
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+
+    <script type="text/javascript">
+      (function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g); } })(document, window.mixpanel || []);
+       window.mixpanel.init("99e6aef5fbb1f90f729de7ad7bb6ad61", {
+          debug: false,
+          track_pageview: false,
+          persistence: "localStorage",
+       });
+
+       window.mixpanel.register({
+           user_agent:  window.navigator.userAgent
+       });
+    </script>
+</head>
+<body class="mob_no_backtop  not-mobile "
+      data-vce="body"
+>
+<div id="top"></div>
+    <!-- This space will be replaced in v2/pages/home.html by a block with the same name -->
+
+<header class="global-header">
+    <div class="content community-bg">
+        <div class="container">
+ <nav class="global-nav "> <ul class="content">  <li class="nav-item nav-search"> <div class="nav-search-container global-dropdown-anchor " data-vce="search-btn" data-always-open="false"> <form class="search-input-container"> <input maxlength="50" autocomplete="false" class="nav-search-input" type="search" placeholder="Busque no Amino" value="" required /> <div class="clear-button"> <i class="amino-icon amino-icon-x"></i> </div> <span class="cancel-search">Cancelar</span> </form> <svg width="25" height="25" xmlns="http://www.w3.org/2000/svg" class="svg-icon amino-icon amino-icon-search" xmlns:xlink="http://www.w3.org/1999/xlink"><g transform="translate(.8 .6)" fill-rule="evenodd"><path d="M9.902 17.457c-4.128 0-7.5-3.372-7.5-7.5 0-4.129 3.372-7.501 7.5-7.501 4.129 0 7.501 3.372 7.501 7.5 0 4.129-3.372 7.501-7.5 7.501zm7.799-1.43a9.883 9.883 0 0 0 2.13-6.124C19.832 4.453 15.38 0 9.903 0 4.425 0 0 4.452 0 9.903c0 5.45 4.452 9.902 9.902 9.902a9.998 9.998 0 0 0 6.125-2.132l5.963 5.963 1.7-1.7-5.99-5.908z"/></g></svg> <div class="global-dropdown-container search-dropdown-container amino-logo-animation"></div> </div> </li>  <li class="nav-item"> <a class="nav-link block" href="https://aminoapps.com/explore/" title="Explorar" data-refer-type="site_navbar_icon_explore" >  <svg width="25" height="25" class="explore-icon svg-icon amino-icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g fill-rule="evenodd"><g transform="translate(.6 .8)"><path d="M12 21.666c-5.33 0-9.666-4.336-9.666-9.666S6.67 2.334 12 2.334 21.666 6.67 21.666 12 17.33 21.666 12 21.666m8.482-18.144l-.004-.004C18.182 1.25 15.171 0 12 0 5.383 0 0 5.383 0 12c0 3.171 1.25 6.182 3.522 8.482C5.818 22.75 8.829 24 12 24c3.17 0 6.182-1.25 8.482-3.522C22.75 18.182 24 15.171 24 12c0-3.17-1.25-6.182-3.518-8.478"/></g><path d="M13.4 14.4c-.897 0-1.6-.527-1.6-1.2 0-.673.703-1.2 1.6-1.2.897 0 1.6.527 1.6 1.2 0 .673-.703 1.2-1.6 1.2m6.197-6.99a.838.838 0 0 0-.967-.101l-7.287 3.697-4.23 6.391c-.175.286-.148.62.09.823.147.13.322.18.529.18a.743.743 0 0 0 .411-.102l7.314-3.697 4.23-6.368c.175-.282.148-.615-.09-.823"/></g></svg>  <span class="nav-text">Explorar</span> </a> </li>  <li class="nav-item nav-user less-margin">  <a class="nav-link block pointer" data-vce="btn-popup" data-popup="login" data-popup-close-by-overlay="1" data-popup-source="Top Nav" data-event-category="Sign In Popup" data-event-label="top_nav" data-tea-event="sign_in_popup" data-tea-source="Top Nav" > Entrar </a>  </li>  <li class="nav-item nav-download"> <a class="btn btn-download community-color" href="/get/amino/" data-event-category="NavBar Get App"> Baixe o App </a> </li>  </ul> </nav>            <div class="amino-logo-container">
+                <a class="amino-logo" href="https://aminoapps.com" data-refer-type="site_navbar_amino_logo">
+                        <img src="//wa1.aminoapps.com/static/img/amino-logo-white.svg?v=2" class="logo">
+                </a>
+            </div>
+        </div>
+    </div>
+</header>
+
+    <!-- This space will be replaced in v2/pages/home.html by a block with the same name -->
+
+
+
+<section class="global-body">
+        <div class="global-bg custom-bg container-fixed-bg  img"></div>
+ <section class="community-content"> <nav class="home-section-nav oneline" data-vce="community-nav"> <div class="home-fixed-container"> <a class="home-nav-home community-color" href="/c/otanix/home/" data-refer-type="community_nav_home" > <i class="amino-icon amino-icon-home"></i> </a> <ul class="unstyled content" data-vce="headroom" data-headroom-offset="200">  <li class="section-item  community-color "> <a class="block" href="/c/otanix/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-star"></i> <span class="label">Destaques</span> </a> </li>  <li class="section-item  community-color "> <a class="block" href="/c/otanix/recent/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-clock"></i> <span class="label">Recentes</span> </a> </li>  <li class="section-item  active community-bg "> <a class="block" href="/c/otanix/wiki/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-favs"></i> <span class="label">Wiki</span> </a> </li>  <li class="section-item  community-color "> <a class="block" href="/c/otanix/polls/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-poll"></i> <span class="label">Enquetes</span> </a> </li>  <li class="section-item  community-color "> <a class="block" href="/c/otanix/quizzes/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-quiz"></i> <span class="label">Quizzes</span> </a> </li>  <li class="section-item  community-color "> <a class="block" href="/c/otanix/shared-folder/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-folder"></i> <span class="label">Pasta Compartilhada</span> </a> </li>  <li class="section-item  community-color  hide-on-mobile"> <a class="block" href="/c/otanix/info/" data-refer-type="community_nav"> <i class="amino-icon amino-icon-info"></i> <span class="label">Sobre</span> </a> </li>  <li class="section-item"></li> <li class="section-item"></li> </ul>  <a class="overflow-hint" href="javascript:void(0);" data-tea-event="community_nav_scroll" data-tea-type="Next" data-event-category="Community Nav Scroll" data-event-action="next"> <i class="amino-icon amino-icon-rightward community-color"></i> </a>  </div> </nav>   <section class="main-page content"> <div class="content" data-vce="next-page-loader" >  <div class="htec-main-post"> <div class="ad-block-banner-container" style="min-height: 90px;"> <section class="ad-block" style="width:728px; min-height:90px;"> </section> </div> <script type='text/javascript'>
+    document.getElementsByClassName("ad-block-banner-container")[0].children[0].id = 'slot-banner';
+
+
+    document.addEventListener('ANAReady', () => {
+        if (window.innerWidth > 1490) {
+            const adUnitID = '/114106652/amino_728x90_atf_desktop_1';
+            const adDimensions = [[728, 90], [970, 250], [970, 90], [960, 250], [300, 250]];
+            const elementID = 'slot-banner';
+            const slotName = 'slotBanner';
+
+            if (window[slotName]) {
+                return;
+            }
+
+            window.createAssemblyAdSlot({
+                slotName,
+                elementID,
+                adUnitID,
+                dimensions: adDimensions,
+                collapseBeforeFill: true,
+                collapseIfNoFill: true,
+                refresh: false,
+            });
+        }
+    });
+</script> <article class="post main-post hide-blocker " >  <header class="item-header">  <div class="jumbotron" data-vce="fade-image-switcher">  <img class="switch img-cover show" src=" http://pm1.aminoapps.com/6397/7f1e865181b98bdff0cfd975f5c61378eda47de4_00.jpg " alt="None"/>  </div>  <div class="title">  <div class="page-wiki-item">  <img class="item-card img-cover" data-vce="image"  src="//pm1.aminoapps.com/6397/7f1e865181b98bdff0cfd975f5c61378eda47de4_128.jpg"  > </div> <div class="overflow-hidden" data-vce="rich-content"> <h3 class="text">Mestre Kame</h3> <div class="authors">  <div class="avatars"> <a href="https://aminoapps.com/c/otanix/page/user/c-wil-r-tm/Q4ZQ_GwtJfeMw7bQNGlQ8pLaDQdpXJDbNr" class="block author"> <img class="avatar" data-vce="image"  src="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg"  > </a> </div> <div class="overflow-hidden"> <div class="label">Autor</div> <div class="names"> <a class="nickname" href="https://aminoapps.com/c/otanix/page/user/c-wil-r-tm/Q4ZQ_GwtJfeMw7bQNGlQ8pLaDQdpXJDbNr" >  <span class="content">⏭ :copyright: ∆Wil :registered: ⏮ :tm: </span>  <i class="level-badge level-badge-13"></i>  </a> </div> </div>  </div>  </div>   <section class="counters">  <div class="vote-counter pointer" data-vce="btn-like" data-vote-value="0" data-href="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5"   data-target-ndc-id="102292403" data-target-post-type="item" data-target-post-id="5fd0ad75-8b8a-4046-b069-5f06478cd666" data-target-log-type="favorite"  data-join-icons="" data-join-deeplink="narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666" data-join-motivation="like" data-join-motivation-like="wiki" data-join-copytext="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5" data-login-motivation="Entre para curtir esta publicação." data-event-label="like_post" data-submit-event-label="live_comment" data-source="Like Post" > <i class="amino-icon amino-icon-heart-o"></i> <span class="num">14</span> </div>  <div class="comment-counter pointer" data-vce="btn-popup" data-popup="join-community" data-popup-icons="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg" data-popup-deeplink="narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666" data-popup-motivation="comment" data-popup-motivation-comment="wiki" data-popup-close-by-overlay="1" data-popup-tea-source="Comment Wiki Popup" data-event-category="Popup Join" data-event-action="comment" data-tea-event="download_popup" data-tea-source="Comment" > <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">1</span> </div> </section> </div> </header>  <section class="counters">  <div class="vote-counter pointer" data-vce="btn-like" data-vote-value="0" data-href="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5"   data-target-ndc-id="102292403" data-target-post-type="item" data-target-post-id="5fd0ad75-8b8a-4046-b069-5f06478cd666" data-target-log-type="favorite"  data-join-icons="" data-join-deeplink="narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666" data-join-motivation="like" data-join-motivation-like="wiki" data-join-copytext="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5" data-login-motivation="Entre para curtir esta publicação." data-event-label="like_post" data-submit-event-label="live_comment" data-source="Like Post" > <i class="amino-icon amino-icon-heart-o"></i> <span class="num">14</span> </div>  <div class="comment-counter pointer" data-vce="btn-popup" data-popup="join-community" data-popup-icons="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg" data-popup-deeplink="narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666" data-popup-motivation="comment" data-popup-motivation-comment="wiki" data-popup-close-by-overlay="1" data-popup-tea-source="Comment Wiki Popup" data-event-category="Popup Join" data-event-action="comment" data-tea-event="download_popup" data-tea-source="Comment" > <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">1</span> </div> </section>   <section class="item-about"> <h3 class="label">Sobre</h3> <div class="content"> <table data-vce="rich-content">  <tr> <td class="label">Anime</td> <td class="value">Dragon Ball (Z)/Dragon Ball Super</td> </tr>  <tr> <td class="label">Nome</td> <td class="value">Muten Roshi</td> </tr>  <tr> <td class="label">Kanji</td> <td class="value">亀仙人武天老師 (むてんろうし)</td> </tr>  <tr> <td class="label">Status</td> <td class="value">Vivo</td> </tr>  <tr> <td class="label">Gênero</td> <td class="value">Masculino</td> </tr>  <tr> <td class="label">Raça</td> <td class="value">Terráqueo</td> </tr>  <tr> <td class="label">Afiliação</td> <td class="value">Escola Mutaito (Antes)                        Escola Tartaruga (Antes)</td> </tr>  <tr> <td class="label">Altura</td> <td class="value">1.65 cm</td> </tr>  <tr> <td class="label">Peso</td> <td class="value">44 kg</td> </tr>  <tr> <td class="label">Ano de Nascimento</td> <td class="value">Ano 430</td> </tr>  <tr> <td class="label">Local de Nascimento</td> <td class="value">Planeta Terra</td> </tr>  <tr> <td class="label">Minha Pontuação</td> <td class="value"> :moneybag:  :moneybag:  :moneybag:  :moneybag:  :moneybag: </td> </tr>  </table> <hr> </div> </section>  <div class="post-full-content">   <section class="content rich-content article" data-vce="rich-content"> <div
+ class="post-content-toggle"  >  <p class="center bolder"> :bomb: ~ Alerta de Spoiler ~ :bomb: </p><p></p><p class="center bolder">╔═════════╗</p><p class="center bolder">⪡ Mestre Kame ⪢</p><p class="center">マスターカメ</p><p class="center bolder">╚═════════╝</p><div class="image-container"><img class="post-img" data-vce="image" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pa1.aminoapps.com/6329/fc67437efe8218ecdfccda7c19051e528340fec5_hq.gif"  id="media-462eaaca" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Muten Roshi, mais conhecido como Mestre Kame, é um personagem que sempre esteve presente em toda a franquia Dragon Ball. Ele é bem conhecido no mundo das artes marciais, mas hoje em dia, o Roshi é apenas um velhinho tarado.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Aparência ⪢</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6330/7ce996591d0cc384da4aa58b7db5f30014324c37_hq.jpg"  id="media-26751fc6" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Mestre Kame é um idoso de pele clara, ele é baixo, careca e possui uma barba e bigode de cor branca. Ao longo da série, o Muten Roshi é visto usando vários tipos de roupas, mas esses trajes sempre são de praia ou de artes marciais. Ele também usa um óculos de sol com bordas vermelhas e geralmente se apresenta com uma bengala de madeira.</p><p></p><p class="center">Em sua primeira aparição no anime/mangá, Mestre Kame usava uma camisa laranja, um short branco e sandálias normais. Roshi também se apresentava com um casco roxo de tartaruga em suas costas.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Personalidade ⪢</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pa1.aminoapps.com/6330/f67dc7a3027502cd1cad75ed9e6bdd613fe396da_hq.gif"  id="media-86c3576b" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Com mais de 300 anos, o Mestre Kame é um velho sábio, muito experiente, tanto na vida quanto em artes marciais. Como já dito, ele é um velhinho pervertido e tarado, mas o Roshi também é uma pessoa bondosa, tratando muito bem todos os seus discípulos, amigos e pessoas ao seu redor.</p><p></p><p class="center">Ele é um tanto preguisoça, bastante carismático e muito engraçado, alguém cômico e diverdito. Mestre Kame também demonstra uma certa calma e ele é bem respeitado no mundo das artes marciais.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ História/Passado ⪢</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6330/186a75269362a27075e6dccee70a1936fd6604be_hq.jpg"  id="media-54109d94" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Mestre Kame é o morador de uma pequena ilha isolada com uma casa construída nela. Ele é o criador do famoso Kamehameha e já foi mestre de vários guerreiros do anime, como Goku e Kuririn.</p><p></p><p class="center">Em sua primeira aparição no anime/mangá Dragon Ball, Mestre Kame agradece Goku por ter salvo a sua tartaruga, aliás ele presenteia o Saiyajin com a Nuvem Voadora. Em troca de Bulma mostrar a sua calcinha ele lhe dá uma das esferas do dragão. Na saga do 21° Torneio de Artes Marciais, Mestre Kame treina Goku e Kuririn e no fim de todo o treino, os discípulos de Roshi participam do Torneio de Artes Marciais. Kame se disfarça de um lutador cujo nome é Jackie Chun, pois ele obviamente queria ganhar o prêmio do torneio e saber se seus discípulos estavam realmente preparados para seguir suas vidas e treinos sozinhos.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Principais Técnicas ⪢</p><p></p><p class="center bolder">• Kamehameha •</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pa1.aminoapps.com/6331/f1a6eb61b30adc197fb0dc74298e26485f20a52b_hq.gif"  id="media-245656ab" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">O Kamehameha é a principal técnica da série, é um golpe original do Mestre Kame, mas muito usada por outros personagens do anime/mangá. Depois de concentrar o Ki em suas mãos, o usuário lançará uma incrível rajada de energia em direção ao alvo. O Super Kamehameha é a evolução do Kamehameha, nesta forma, o poder destrutivo aumenta drasticamente</p><p></p><p class="center bolder">• Mafuba •</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6331/126588c5e041c1b6081ad82dab0eb850a9cffca1_hq.jpg"  id="media-46812d8a" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Técnica criada pelo Mestre Mutaito, mas também usada por Muten Roshi. O usuário deve criar um tornado que sugará o oponente e o selará em qualquer objeto usado, como uma garrafa ou uma jara. Porém, o golpe resulta da morte do usuário e funciona apenas em seres demôniacos. Mestre Kame usa o Mafuba para selar o Rei Piccolo, libertado pelo Pilaf.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Formas ⪢</p><p></p><p class="center">Apesar de ser um idoso, Mestre Kame possui um poder muito alto para um terráqueo e conforme ele usa a sua energia, a sua aparência e obviamente a sua força mudam drasticamente.</p><p></p><p class="center bolder">• Forma 50% •</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6331/66b73455b6e31fb11932de65aeb52d3233a27487_hq.jpg"  id="media-ae755cb2" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Como o próprio nome já diz, nessa forma Mestre Kame usa apenas metade do seu poder total. Quando ele está nessa tranformação, Roshi fica com musculos e é claro, ele também se torna mais forte. Mestre Kame já tinha usado essa forma para fazer exercícios, mas no 22º Torneio de Artes Marciais, foi quando Kame realmente usou suas habilidades nesta transformação.</p><p></p><p class="center bolder">• Forma 100% •</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6331/e659e346b7b900320d9214960b15ea4512d7b65d_hq.jpg"  id="media-26aa6514" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Dificilmente ele usa essa transformação, pois diminui sua velocidade e energia. Quando Kame está com seu poder máximo, ele se torna alguém muito musculoso, com um grande aumento de massa muscular e comparado ao seu estado normal, Roshi tem um elevado aumento de Ki. Porém, o poder total neste estágio é desconhecido.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Curiosidades ⪢</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pa1.aminoapps.com/6330/a0d99eb886c7343e57714cb66417dfaeb6c7f96f_hq.gif"  id="media-b7b66dd2" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">》Sempre que o Mestre Kame via alguma mulher bonita, seu nariz sangrava.</p><p></p><p class="center">》A palavra "kame" significa "tartaruga" em japonês.</p><p></p><p class="center">》Ele era considerado  o "Homem mais forte" em sua época.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Opinião ⪢</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6331/112940b4c90afa6084027c1a22a653507d642b74_hq.jpg"  id="media-89f6fdae" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p><p></p><p class="center">Dragon Ball foi um dos primeiros animes que eu assisti, então isso acaba tornando o Mestre Kame um personagem nostálgico, além dele ser bem divertido e cômico durante toda a série. Gostaria que o Kame participasse um pouco mais da nova saga da franquia Dragon Ball, mas isso não é algo que vai me fazer não gostar do Roshi.</p><p></p><p class="center">A sua personalidade, atos e história no anime/mangá, o transforma em um personagem divertido e muito especial. Kame com certeza é um dos melhores personagens da série.</p><p></p><p class="center bolder">━━━━━━ ❰&lt;•&gt;❱ ━━━━━━</p><p></p><p class="center bolder">⪡ Bônus ⪢</p><p></p><p class="center">AMV: Goku VS Jackie Chun (Mestre Kame)</p><p class="center">•═════════ • ═════════•</p><div id="embedded-video-7fKnQk9gESM" class="embedded-video"  data-mute='1'></div><div class="caption video-caption">[Amv] goku vs mestre kame</div><p class="center">•═════════ • ═════════•</p><p class="center">•</p><p></p><p class="center">•</p><p></p><p class="center bolder">❛❛ Uma lâmpada brilha ao máximo antes de se apagar completamente. ❜❜</p><p></p><p class="center">•═════════ • ═════════•</p><div class="image-container"><img class="post-img" data-vce="image"  src="//pm1.aminoapps.com/6331/b023ac61482a6a8a49e6c95b5abacce7ef839e88_hq.jpg"  id="media-a53beb24" alt="Mestre Kame-[BC] :bomb: ~ Alerta de Spoiler ~ :bomb: 
+
+[BC]╔═════════╗
+[BC]⪡ Mestre Kame ⪢
+[C]マスターカメ
+[BC]╚═════════╝
+[IMG=SY6]
+[C]•════════"></div><p class="center">•═════════ • ═════════•</p>   </div> </section> </div>  <section class="item-gallery main-page-section"> <h3 class="title community-color">Galeria</h3> <div class="content"> <div data-vce="lightbox-container"> <div data-vce="carousel" data-height="135" > <div class="community-bg arrow arrow-left"> <i class="fa fa-chevron-left"></i> </div> <div class="community-bg arrow arrow-right"> <i class="fa fa-chevron-right"></i> </div> <div class="scroll-container"><div class="carousel-item lightbox-thumb"><img class="img-cover full-wh" data-vce="carousel-img" data-src="//pm1.aminoapps.com/6397/7f1e865181b98bdff0cfd975f5c61378eda47de4_hq.jpg" id="media-f4894edd" > <div class="lightbox-item" data-type="img" data-preview="//pm1.aminoapps.com/6397/7f1e865181b98bdff0cfd975f5c61378eda47de4_.jpg" data-src="//pm1.aminoapps.com/6397/7f1e865181b98bdff0cfd975f5c61378eda47de4_hq.jpg"></div></div></div> </div> </div> </div> </section>    <section class="more-posts main-page-section"> <h3 class="title community-color">Páginas Relacionadas</h3> <div class="simple-list">   <article class="post mutual-block " >  <a class="block cover item" href="https://aminoapps.com/c/otanix/page/item/goku-black-tm/ZJPM_WKuXIQ56Gr6x0kr0E3060Njp66VYX"  data-vce="rich-content"  > <div class="cover-img loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-⏭©∆Wil®⏮™-b39bc541" data-vce="image" decoding="async" id="media-b39bc541"  src="//pm1.aminoapps.com/6437/3c6cf2c1296bb4319901491aa0f57db6a067a362_00.jpg"  >  </div> <div class="overlay">  <img class="img-cover item-icon" alt="amino-⏭©∆Wil®⏮™-556401fe" data-vce="image" decoding="async" id="media-556401fe"  src="//pm1.aminoapps.com/6672/8d2f544d9b6d8eecb1724f306eb9b6d07acb3837_00.jpg"  >  <div class="remain overflow-hidden"> <h3 class="title">Goku Black :tm: </h3> <div class="counters"> <span class="counter"> <i class="fa fa-heart"></i> <span class="num">28</span> </span> <span class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">2</span> </span> </div> </div> </div> </a> </article>   <article class="post mutual-block " >  <a class="block cover item" href="https://aminoapps.com/c/otanix/page/item/dragon-ball-z/jD7R_dGtoIgRoE87e8oX0jJz5W0j6Yod36"  data-vce="rich-content"  > <div class="cover-img loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-⏭©∆Wil®⏮™-795b150c" data-vce="image" decoding="async" id="media-795b150c" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/6363/6ab90493744909f0be0080a6a9fc8e360f2ad429_00.jpg"  >  </div> <div class="overlay">  <img class="img-cover item-icon" alt="amino-⏭©∆Wil®⏮™-fda36087" data-vce="image" decoding="async" id="media-fda36087" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/6363/77ca422649bb2f199fa6a699ccfab4192b9b3bf5_00.jpg"  >  <div class="remain overflow-hidden"> <h3 class="title">Dragon Ball Z</h3> <div class="counters"> <span class="counter"> <i class="fa fa-heart"></i> <span class="num">24</span> </span> <span class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">0</span> </span> </div> </div> </div> </a> </article>  </div> </section>   <section class="share hide-phone" data-vce="call2action-interest-anchor"> <h3 class="label">Compartilhar no</h3> <ul class="unstyled share-icons with-color bubble">  <li class="item via-facebook"> <a href="//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Faminoapps.com%2Fp%2Fed8dpc" class="block" data-event-category="Facebook share button" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Facebook" target="_blank"> <i class="fa-2x amino-icon amino-icon-f"></i> </a> </li>  <li class="item via-twitter"> <a href="//twitter.com/share?url=http%3A%2F%2Faminoapps.com%2Fp%2Fed8dpc&text=Mestre+Kame" data-event-category="Twitter share button" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Twitter" class="block" target="_blank"> <i class="fa-2x amino-icon amino-icon-twitter"></i> </a> </li>  <li class="item via-tumblr"> <a href="//www.tumblr.com/share/link?url=http%3A%2F%2Faminoapps.com%2Fp%2Fed8dpc&text=Mestre+Kame" data-event-category="Tumblr share button" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Tumblr" class="block" target="_blank"> <i class="fa-2x amino-icon amino-icon-t"></i> </a> </li>  <li class="item via-copylink"> <a class="block pointer with-tooltip" data-vce="clipboard" data-clipboard-text="http://aminoapps.com/p/ed8dpc" data-event-category="CopyLink" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Link" > <i class="fa-2x amino-icon amino-icon-link"></i> <span class="tooltip tooltip-top">Copiado</span> </a> </li> </ul> </section>  <div class="comment-like-share community-color collapse" data-vce="collapse-comment"> <div class="collapse-counter pointer" > <div class="vote-number counter-btn"> <i class="amino-icon amino-icon-heart"></i> <span> Curtidas (14) </span> </div> <div class="comment-number counter-btn"> <i class="amino-icon amino-icon-comment-splat"></i> <span> Comentários (1) </span> </div> </div> <div class="pointer collapse-share collapse"> <i class="amino-icon amino-icon-share"></i> <i class="amino-icon amino-icon-x"></i> <section class="share" data-vce="call2action-interest-anchor"> <ul class="unstyled share-icons with-color bubble">  <li class="item via-facebook"> <a href="//www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Faminoapps.com%2Fp%2Fed8dpc" class="block" data-event-category="Facebook share button" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Facebook" target="_blank"> <i class="fa-2x amino-icon amino-icon-f"></i> </a> </li>  <li class="item via-twitter"> <a href="//twitter.com/share?url=http%3A%2F%2Faminoapps.com%2Fp%2Fed8dpc&text=Mestre+Kame" data-event-category="Twitter share button" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Twitter" class="block" target="_blank"> <i class="fa-2x amino-icon amino-icon-twitter"></i> </a> </li>  <li class="item via-tumblr"> <a href="//www.tumblr.com/share/link?url=http%3A%2F%2Faminoapps.com%2Fp%2Fed8dpc&text=Mestre+Kame" data-event-category="Tumblr share button" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Tumblr" class="block" target="_blank"> <i class="fa-2x amino-icon amino-icon-t"></i> </a> </li>  <li class="item via-copylink"> <a class="block pointer with-tooltip" data-vce="clipboard" data-clipboard-text="http://aminoapps.com/p/ed8dpc" data-event-category="CopyLink" data-tea-event="share_content" data-tea-source="Post Detail Share Bar" data-tea-selection-for-share="Link" > <i class="fa-2x amino-icon amino-icon-link"></i> <span class="tooltip tooltip-top">Copiado</span> </a> </li> </ul> </section> </div> </div>  <section class="blog-like main-page-section" id="like-member-list" data-vce="lazy-blog-like" data-votes-count="14" data-post-type="item" data-post-id="5fd0ad75-8b8a-4046-b069-5f06478cd666" > <h3 class="title community-color">  Curtidas (14)  </h3>  <div class="pointer vote-counter" data-vce="btn-like" data-vote-value="0" data-href="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5"   data-target-ndc-id="102292403" data-target-post-type="item" data-target-post-id="5fd0ad75-8b8a-4046-b069-5f06478cd666" data-target-log-type="favorite"  data-join-icons="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg" data-join-deeplink="narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666" data-join-motivation="like" data-join-motivation-like="wiki" data-join-copytext="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5" data-source="Like Post" data-login-motivation="Entre para curtir esta publicação." data-event-label="like_post" data-submit-event-label="detail_page" > <i class="amino-icon amino-icon-heart-o"></i> <i class="amino-icon amino-icon-heart"></i> <span class="label">Curtir</span> <span class="num">14</span> </div>  <div class="content user-list loading"> <i class="fa fa-spin fa-spinner fa-2x"></i> <span class="vote-icon"> <i class="amino-icon amino-icon-heart"></i> </span> <span class="block more-votes"> <i class="amino-icon amino-icon-splat"></i> </span> </div> </section>  <a name="comment-list"></a> <section class="comment-list" data-vce="live-comment" data-live-comment-disabled="" data-target-ndc-id="102292403"  data-target-post-type="item" data-target-post-id="5fd0ad75-8b8a-4046-b069-5f06478cd666" data-target-log-type="favorite" > <h3 class="title community-color">  Comentários (1)  </h3> <div class="content"  data-vce="comment-area">  <div class="load-comment-indicator"> <i class="fa fa-spin fa-circle-o-notch"></i> </div> <section class="comment-input-bar main" data-vce="comment-input-bar"  data-join-icons="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg" data-join-deeplink="narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666" data-join-motivation="comment" data-join-motivation-comment="wiki" data-source="Comment New"  data-success-redirect data-event-label="comment_new" >  <img class="user-icon" src="//wa1.aminoapps.com/static/img/user-icon-placeholder.png"/>  <textarea name="content" placeholder="Diga algo..." readonly maxlength="5000"></textarea> <button class="pointer btn btn-send community-bg" disabled> <i class="amino-icon amino-icon-send"></i> <i class="fa fa-spin fa-spinner"></i> </button> </section>     <article class="comment rich-content mutual-block main" data-comment-id="100776c4-46f2-422c-912a-ce162183c9a7" data-author-name="Augusto Vinicius" > <a name="comment-100776c4-46f2-422c-912a-ce162183c9a7" style="margin-top: -150px"></a> <div class="content"> <a class="block avatar-aside" href="https://aminoapps.com/c/otanix/page/user/augusto-vinicius/zvBl_XYigf05G4bKXz2NN2W5dJXGLQXjGk" >  <img class="avatar" data-vce="image" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/6396/84f8dcc30839f25e9c3a0b59f330ef9b17290fd9_128.jpg"  >  </a> <div class="main" data-vce="rich-content"> <div class="info"> <a class="nickname" href="https://aminoapps.com/c/otanix/page/user/augusto-vinicius/zvBl_XYigf05G4bKXz2NN2W5dJXGLQXjGk"  >  <span class="content">Augusto Vinicius</span>  <i class="level-badge level-badge-7"></i>   </a>  </div>  <div class="content overflowing " data-vce="toggle-content" data-threshold="85" data-success-redirect data-additional-logic="join" >  <div class="comment-text article"><p>Kamehameha</p></div>  <span class="height-toggle pointer"  data-popup="join-community" data-popup-icons="//pm1.aminoapps.com/6396/84f8dcc30839f25e9c3a0b59f330ef9b17290fd9_128.jpg" data-popup-deeplink="narviiapp://x102292403/comment/100776c4-46f2-422c-912a-ce162183c9a7?parent-type=2&amp;parent-id=5fd0ad75-8b8a-4046-b069-5f06478cd666" data-popup-motivation="reply" data-popup-close-by-overlay="1" data-popup-success-redirect="https://aminoapps.com/c/otanix/page/item/mestre-kame/YVd2_bvSXIeXMnVZ71jXKVjgjlxXpaK4R5#comment-100776c4-46f2-422c-912a-ce162183c9a7" data-popup-source="Expand Comment"  data-tea-event="expand_collapsed_comment" > Ler mais <i class="fa fa-caret-down"></i> </span> </div>  <div class="bottom-info">  <span class="vote pointer" data-vce="btn-like-comment" data-vote-value="0" data-login-motivation="Entre para curtir este comentário." data-join-icons="//pm1.aminoapps.com/6396/84f8dcc30839f25e9c3a0b59f330ef9b17290fd9_128.jpg" data-join-deeplink="narviiapp://x102292403/comment/100776c4-46f2-422c-912a-ce162183c9a7?parent-type=2&amp;parent-id=5fd0ad75-8b8a-4046-b069-5f06478cd666" data-join-motivation="like" data-join-motivation-like="comment" data-event-label="like_comment" data-source="Like Comment" > <i class="amino-icon amino-icon-heart-o"></i> <i class="amino-icon amino-icon-heart"></i> <span class="num">1</span> </span>   <span class="reply pointer" data-join-icons="//pm1.aminoapps.com/6396/84f8dcc30839f25e9c3a0b59f330ef9b17290fd9_128.jpg" data-join-deeplink="narviiapp://x102292403/comment/100776c4-46f2-422c-912a-ce162183c9a7?parent-type=2&amp;parent-id=5fd0ad75-8b8a-4046-b069-5f06478cd666" data-join-motivation="reply" > <i class="amino-icon amino-icon-comment-splat-o"></i> <span class="label">Responder</span> </span>  <span class="pretty-date">03/09/17</span> </div> </div> </div> </article>   </div> <section class="live-comment"> <div class="content"> <div class="upper"> <ul class="comments unstyled"></ul> </div> <div class="pointer state-switch"> <span class="switch-on"> <i class="amino-icon amino-icon-show-comment"></i> </span> <span class="switch-off"> <i class="amino-icon amino-icon-hide-comment"></i> </span> </div>  <div class="comment-input-bar placeholder pointer"> <textarea name="content" readonly placeholder="Diga algo..."></textarea> </div>  </div> </section> </section>   <section class="recommend-new show-not-pc">  <div class="recommend-item community-bg recommend-app" data-vce="rich-content">  <div class="backdrop-img"> <img data-vce="image" class="img-cover" data-src="//cm1.aminoapps.com/9565/a98df5d589ac0598b56f0f1fb54005be0fb5d1d4_375.jpg" alt="Community background image"/> </div>  <img class="img-cover" src="//cm1.aminoapps.com/9019/f6a1030404b017ea9f008ac41cdde774fe8cf57c_120.jpg" alt="community logo"/> <p class="promotion">Gosta de Otanix?
+Entre na comunidade.</p> <a class="btn community-color" href="/get/amino/" data-vce="deeplink" data-event-category="Download" data-event-label="wiki_endcap_download" data-tea-event="download_app" data-tea-source="Wiki Endcap Download" >Baixar o Amino</a> </div> <article class="post recommend-item">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-bf6107f3" data-vce="image" decoding="async" id="media-bf6107f3" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9080/09cbc52ed633afd7a571b0a9acc08281daed4e71r5-444-794_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/the-shawshank-redemption/7KQ6_RJcNI86d05nKjJL1wkJ4E75x8zjxg"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-849b389a" data-vce="image" decoding="async" id="media-849b389a" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9080/616861e108af44d13ff43a881eb3da83321598fdr1-1692-2048v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">177</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">7</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <small class="reason">  <i class="amino-icon amino-icon-wiki"></i> Wiki relacionada  </small> <a href="https://aminoapps.com/c/otanix/page/item/the-shawshank-redemption/7KQ6_RJcNI86d05nKjJL1wkJ4E75x8zjxg" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">The Shawshank Redemption</h3> </a>  </div> </article> <article class="post recommend-item">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-308438ae" data-vce="image" decoding="async" id="media-308438ae" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9154/1769eb3f4805c2835a5421116d7058ceb47085bcr5-736-1472_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/joshua-punkhead/YVd2_bvSXI0jDrGZMPwKNVZobRRqG284xm"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-99f195a1" data-vce="image" decoding="async" id="media-99f195a1" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9154/d49e8b270cefcd825a7557a613c1a270b9db7bb9r1-480-480v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">177</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">2</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <small class="reason">  <i class="amino-icon amino-icon-wiki"></i> Wiki relacionada  </small> <a href="https://aminoapps.com/c/otanix/page/item/joshua-punkhead/YVd2_bvSXI0jDrGZMPwKNVZobRRqG284xm" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">Joshua Punkhead</h3> </a>  </div> </article> <article class="post recommend-item">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-e97c6ad0" data-vce="image" decoding="async" id="media-e97c6ad0" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9491/c502a6aef61a7f457b699a71cb2aad507adeefc0r5-651-1228_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/fubuki/NKZp_awcWI47dad7EWbop3Bz1ZrmWblGJ7"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-bd70d0e8" data-vce="image" decoding="async" id="media-bd70d0e8" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9129/41a25865f8b22e0ca8d197956ee865a52967895cr1-1506-2048v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">219</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">0</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <small class="reason">  <i class="amino-icon amino-icon-wiki"></i> Wiki relacionada  </small> <a href="https://aminoapps.com/c/otanix/page/item/fubuki/NKZp_awcWI47dad7EWbop3Bz1ZrmWblGJ7" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">Fubuki</h3> </a>  </div> </article> <article class="post recommend-item">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-f5f378d7" data-vce="image" decoding="async" id="media-f5f378d7" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9491/77b11c84ebf05ae8326c343728887886c7c97c03r5-556-1200_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/sakamoto-taro/BKXx_mocmILGj0bXdBZWEGNMYWeP2kdmE"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-7ce4d3b8" data-vce="image" decoding="async" id="media-7ce4d3b8" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9261/b89725108d3188c2667447c6df201b73fe8b738fr1-2048-1822v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">223</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">13</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <small class="reason">  <i class="amino-icon amino-icon-wiki"></i> Wiki relacionada  </small> <a href="https://aminoapps.com/c/otanix/page/item/sakamoto-taro/BKXx_mocmILGj0bXdBZWEGNMYWeP2kdmE" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">Sakamoto Taro</h3> </a>  </div> </article>  </section>  </article>  </div>  <!--article.main-post-->   <section class="recommend hide-blocker" >  <div class="recommend-item community-bg recommend-app" data-vce="rich-content"> <p class="promotion">Gosta de Otanix?
+Entre na comunidade.</p> <a class="btn community-color" href="/get/amino/" data-vce="deeplink" data-event-category="Download" data-event-label="wiki_endcap_download" >Baixe o App</a> </div> <article class="post recommend-item ">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-bf6107f3" data-vce="image" decoding="async" id="media-bf6107f3" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9080/09cbc52ed633afd7a571b0a9acc08281daed4e71r5-444-794_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/the-shawshank-redemption/7KQ6_RJcNI86d05nKjJL1wkJ4E75x8zjxg"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-849b389a" data-vce="image" decoding="async" id="media-849b389a" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9080/616861e108af44d13ff43a881eb3da83321598fdr1-1692-2048v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">177</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">7</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <div class="reason">  Entrada Wiki relacionada  </div> <a href="https://aminoapps.com/c/otanix/page/item/the-shawshank-redemption/7KQ6_RJcNI86d05nKjJL1wkJ4E75x8zjxg" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">The Shawshank Redemption</h3> </a> <div class="pretty-date">09/25/24</div> <section class="info">  <span class="pretty-date">09/25/24</span>  </section> </div> </article> <article class="post recommend-item ">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-308438ae" data-vce="image" decoding="async" id="media-308438ae" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9154/1769eb3f4805c2835a5421116d7058ceb47085bcr5-736-1472_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/joshua-punkhead/YVd2_bvSXI0jDrGZMPwKNVZobRRqG284xm"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-99f195a1" data-vce="image" decoding="async" id="media-99f195a1" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9154/d49e8b270cefcd825a7557a613c1a270b9db7bb9r1-480-480v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">177</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">2</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <div class="reason">  Entrada Wiki relacionada  </div> <a href="https://aminoapps.com/c/otanix/page/item/joshua-punkhead/YVd2_bvSXI0jDrGZMPwKNVZobRRqG284xm" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">Joshua Punkhead</h3> </a> <div class="pretty-date">11/26/24</div> <section class="info">  <span class="pretty-date">11/26/24</span>  </section> </div> </article> <article class="post recommend-item ">  <div class="cover item"> <div class="cover-img loading" data-vce="fading-media"> <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-e97c6ad0" data-vce="image" decoding="async" id="media-e97c6ad0" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9491/c502a6aef61a7f457b699a71cb2aad507adeefc0r5-651-1228_00.jpg"  >  </div> <a class="overlay block" href="https://aminoapps.com/c/otanix/page/item/fubuki/NKZp_awcWI47dad7EWbop3Bz1ZrmWblGJ7"  data-refer-type="page_endcap_related_item">  <img class="img-cover item-curated item-icon" alt="amino-System-bd70d0e8" data-vce="image" decoding="async" id="media-bd70d0e8" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9129/41a25865f8b22e0ca8d197956ee865a52967895cr1-1506-2048v2_00.jpg"  >  <div class="counters"> <div class="counter"> <i class="fa fa-heart"></i> <span class="num">219</span> </div> <div class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">0</span> </div> </div> </a> </div>  <div class="content" data-vce="rich-content"> <div class="reason">  Entrada Wiki relacionada  </div> <a href="https://aminoapps.com/c/otanix/page/item/fubuki/NKZp_awcWI47dad7EWbop3Bz1ZrmWblGJ7" class="block" data-refer-type="page_endcap_related_item"  > <h3 class="title">Fubuki</h3> </a> <div class="pretty-date">August 28</div> <section class="info">  <span class="pretty-date">August 28</span>  </section> </div> </article>  </section><!--/.recommend-->   <section class="next-post" data-href="https://aminoapps.com/c/otanix/page/item/scott-pilgrim/dLPE_NMFaILZzWvZ1qQgE3D6ad6G31r3v2"> <div class="content"> <i class="fa fa-spin fa-spinner fa-2x white"></i> <i class="fa fa-spin fa-spinner fa-2x community-color"></i> </div> </section>  </div> <script class="exclusion_list" type="text/plain">5fd0ad75-8b8a-4046-b069-5f06478cd666</script> </section><!--/.main-content-->  <div class="live-member-list" data-vce="member-list" data-event-category="Popup Join" data-event-action="online_members" data-tea-event="download_popup" data-tea-source="Online Members" > <div class="content" data-vce="btn-popup" data-popup="join-community"  data-popup-motivation="online_members" data-popup-tea-source="Online Members Popup" data-popup-close-by-overlay="1" > <span class="avatars"></span> <span class="member-counter" data-vce="overflow-aware"></span> </div> </div> </section> <div class="community-livelayer-padding cloak"></div>  <aside class="community-sidebar" data-vce="sidebar-community" data-close-by-overlay="1"> <div class="content community-sidebar-container overflow-scroll-sidebar">  <section class="sidebar-card community-info sidebar-section user-canopy " data-vce="join-community"> <div class="sidebar-community-bg community-bg">  <img class="img-cover" src="//cm1.aminoapps.com/9565/a98df5d589ac0598b56f0f1fb54005be0fb5d1d4_375.jpg" alt="community background">  </div>  <div class="sidebar-profile-container"> <a class="block sidebar-community-info" href="https://aminoapps.com/c/otanix/info/" data-refer-type="community_card" >  <div class="community-icon"> <img class="logo" src="//cm1.aminoapps.com/9019/f6a1030404b017ea9f008ac41cdde774fe8cf57c_120.jpg"> </div> <div class="basic-info"> <h1 class="title font-montserrat-black" data-vce="rich-content">Otanix</h1> <div class="heat-gauge"> <div class="heat heat-8"></div> <div class="gauge"></div> <div class="gauge"></div> <div class="gauge"></div> <div class="gauge"></div> <div class="gauge"></div> <div class="gauge"></div> <div class="gauge"></div> <div class="gauge"></div> </div> <div class="member-count">  1,550,929 Membros  </div> </div> </a> <p class="tagline">Para todos da Família Otaku!</p> <button class="btn full-width pointer community-bg" data-vce="btn-join-community" data-vce-name="direct_join" data-event-label="community_card" data-source="Card Join Now" data-event-category="Join" data-ndc-id="102292403" > Entrar Agora </button> <button class="btn button full-width pointer community-color pre-login-compose" data-vce="pre-login-btn" data-event-label="create_post" data-source="Card Create Post" data-true-form="user/compose-entry" data-success-redirect="" data-join-icons="//cm1.aminoapps.com/9019/f6a1030404b017ea9f008ac41cdde774fe8cf57c_120.jpg" data-join-motivation="create-post" data-login-motivation="Entre para criar uma publicação." data-event-category="Join" data-ndc-id="102292403" > Criar Post </button> </div>  </section> <!-- Implement desktop_wana_left --> <div style= "display:flex; justify-content:center; align-items: center; width:300px; min-height:250px"> <section id="slot-left-aside" class="ad-block left" style="width:300px; min-height:250px;"></section> </div> <script type='text/javascript'>
+    document.addEventListener('ANAReady', () => {
+        if (window.slotLeftAside) {
+            return;
+        }
+
+        window.createSlot('slotLeftAside', 'slot-left-aside', '/114106652/amino_300x250_atf_desktop_2', [[300, 250]])
+    });
+</script> </div>  <div class="content" data-vce-name="sidebar_content" data-vce="sticky"></div>  </aside>   <aside class="community-aside recommendation-sidebar"> <div class="content " data-vce="page-aside">  <section class="author-aside j-followee-number-container hide-blocker" >  <div class="info"> <a href="https://aminoapps.com/c/otanix/page/user/c-wil-r-tm/Q4ZQ_GwtJfeMw7bQNGlQ8pLaDQdpXJDbNr" class="block" data-refer-type="sidebar_author">  <img src="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg" class="avatar" />  </a> <div class="overflow-hidden"> <a class="block nickname" href="https://aminoapps.com/c/otanix/page/user/c-wil-r-tm/Q4ZQ_GwtJfeMw7bQNGlQ8pLaDQdpXJDbNr" data-vce="rich-content" data-refer-type="sidebar_author">  <span class="content">⏭ :copyright: ∆Wil :registered: ⏮ :tm: </span>  </a>  <div class="pretty-date"> Membro desde Aug 2016 </div>  </div> </div> <div class="counters"> <div class="counter"> <div class="num">7360</div> <h5 class="label">Reputação</h5> </div> <div class="counter"> <div class="num">104</div> <h5 class="label">Seguindo</h5> </div> <div class="counter"> <div class="num j-followee-number-target">1656</div> <h5 class="label">  Seguidores  </h5> </div> </div>   <a class="follow-btn pointer block"  data-login-motivation="Entre para seguir ⏭©∆Wil®⏮™." data-vce="pre-login-btn" data-true-form="user/follow-btn" data-join-icons="//pm1.aminoapps.com/7043/ea0feb704e7c969a7136a26e9a54e00f0495693br1-600-800v2_128.jpg" data-join-motivation="follow-pc" data-event-label="follow" data-source="Follow"  data-follow-event-label="author_card" data-followee="a29e6d5d-e218-4aae-b657-e35fc93fa91c" data-follower="" > <span class="following"> <i class="follow-icon"></i> Seguindo </span> <span class="friends"> <i class="follow-icon"></i> Amigos </span> <span class="stranger"> <i class="follow-icon fa fa-plus"></i> Seguir </span> <span class="unfollow"> Deixar de Seguir </span> <i class="fa fa-circle-o-notch fa-spin"></i> </a>  </section> <!--/.author-aside-->  <div class="ad-block-container" style="display:flex; justify-content: center; align-items: center; width:300px; min-height:600px;"> <section class="ad-block" style="width:300px; min-height:250px;"> </section> </div> <script type='text/javascript'>
+    document.getElementsByClassName("ad-block-container")[0].children[0].id = 'slot-right-aside';
+
+    document.addEventListener('ANAReady', () => startWanaRight());
+
+    window.addEventListener("resize", () => startWanaRight());
+
+    const startWanaRight = () => {
+        if (window.innerWidth > 1206) {
+
+            if (window.slotRightAside) {
+                return;
+            }
+
+            window.createSlot('slotRightAside', 'slot-right-aside', '/114106652/amino_300x250_atf_desktop', [[300, 250], [300, 600]], true, 1207)
+                .then(() => {
+                    if (true) {
+                        window.scrollListener('ad-block-container', "slot-right-aside");
+                    }
+                });
+            
+        }
+    }
+
+
+</script>  <section class="sidebar-card chatroom-sidebar" data-vce="sidebar-chat-list"> <h3 class="label community-color"> <i class="amino-icon amino-icon-reload j-reload"></i> Chats Públicos </h3> <div class="chatroom-list-container simple-list"> </div> <div class="loading-overlay"> <i class="fa fa-spin fa-circle-o-notch community-color"></i> </div> </section>   <section class="popular"> <h3 class="label community-color with-margin">Entradas Wiki relacionadas</h3> <section class="simple-list">   <article class="post mutual-block " >  <a class="block cover item" href="https://aminoapps.com/c/otanix/page/item/osaragi/JKXN_PwcMIvVVeRgqpzBRg8aY6aJLvveb"  data-vce="rich-content" data-refer-type="sidebar_wiki_related" > <div class="cover-img loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-d478d5bb" data-vce="image" decoding="async" id="media-d478d5bb" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9491/b3be5c2425e32f66fce68ed1e4042aabf15ed93ar5-474-842_00.jpg"  >  </div> <div class="overlay">  <img class="img-cover item-curated item-icon" alt="amino-System-194233ae" data-vce="image" decoding="async" id="media-194233ae" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9261/ce502e793efa0698a9de8bcec0c1cefca8c61151r1-1641-2048v2_00.jpg"  >  <div class="remain overflow-hidden"> <h3 class="title">Osaragi</h3> <div class="counters"> <span class="counter"> <i class="fa fa-heart"></i> <span class="num">221</span> </span> <span class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">10</span> </span> </div> </div> </div> </a> </article>   <article class="post mutual-block " >  <a class="block cover item" href="https://aminoapps.com/c/otanix/page/item/a-saga-crepusculo/RmED_QwtvIwmLMbKD4Wk4MvZZzLdmgGxMr"  data-vce="rich-content" data-refer-type="sidebar_wiki_related" > <div class="cover-img loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-29f0695e" data-vce="image" decoding="async" id="media-29f0695e" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9109/794dae716133031536b288d0a968c496aa0bc669r1-674-1200v2_00.jpg"  >  </div> <div class="overlay">  <img class="img-cover item-curated item-icon" alt="amino-System-29f0695e" data-vce="image" decoding="async" id="media-29f0695e" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9109/794dae716133031536b288d0a968c496aa0bc669r1-674-1200v2_00.jpg"  >  <div class="remain overflow-hidden"> <h3 class="title">A Saga Crepúsculo</h3> <div class="counters"> <span class="counter"> <i class="fa fa-heart"></i> <span class="num">245</span> </span> <span class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">24</span> </span> </div> </div> </div> </a> </article>   <article class="post mutual-block " >  <a class="block cover item" href="https://aminoapps.com/c/otanix/page/item/gato-de-botas/MKXY_Bwc0IgdVRPR8vMxx7337zDW3M4vYm"  data-vce="rich-content" data-refer-type="sidebar_wiki_related" > <div class="cover-img loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-System-c0fd676c" data-vce="image" decoding="async" id="media-c0fd676c" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9160/59e02ce8724f488ddec06a53c3bad358b2017f16r1-719-719v2_00.jpg"  >  </div> <div class="overlay">  <img class="img-cover item-curated item-icon" alt="amino-System-c0fd676c" data-vce="image" decoding="async" id="media-c0fd676c" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9160/59e02ce8724f488ddec06a53c3bad358b2017f16r1-719-719v2_00.jpg"  >  <div class="remain overflow-hidden"> <h3 class="title">Gato de Botas</h3> <div class="counters"> <span class="counter"> <i class="fa fa-heart"></i> <span class="num">184</span> </span> <span class="counter"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">2</span> </span> </div> </div> </div> </a> </article>  </section> <a href="/c/otanix/wiki/" data-refer-type="sidebar_wiki_more" class="more linkblue block"> Ver mais </a> </section> <!--/.popular-->    <section class="popular"> <h3 class="label community-color with-margin">Publicações Destacadas</h3> <section class="simple-list">   <article class="post mutual-block " >  <div class="cover">  <div class="full-wh loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-Otanix-ddfcb81a" data-vce="image" decoding="async" id="media-ddfcb81a" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/8633/d76acc0ab81a90addec5e462052ffc104f6e5ca0r1-704-800v2_00.jpg"  >  </div>  </div> <a class="block content" href="https://aminoapps.com/c/otanix/page/blog/plataforma-de-redestaque/l4Yo_qktQuRg4nWKdd887nG4574wEqaQD"  data-vce="rich-content" data-refer-type="sidebar_post_popular" > <section class="desc"> <h3 class="title"> Plataforma de Redestaque </h3>  </section> <footer class="actions"> <div class="action"> <i class="fa fa-heart"></i> <span class="num">1721</span> </div> <div class="action"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">1070</span> </div> </footer> </a> </article>   <article class="post mutual-block " >  <div class="cover">  <div class="full-wh loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-Sunshine-87270085" data-vce="image" decoding="async" id="media-87270085" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="https://pa1.aminoapps.com/8814/ab8c8df3d647008d66d516fa3ae0385088e08950r1-904-1024_00.gif"  >  </div>  </div> <a class="block content" href="https://aminoapps.com/c/otanix/page/blog/comunidade-fechada/6K5W_jVczuWVVznd3orLk6JY3zv81eJ5Ex"  data-vce="rich-content" data-refer-type="sidebar_post_popular" > <section class="desc"> <h3 class="title"> Comunidade fechada? </h3>  </section> <footer class="actions"> <div class="action"> <i class="fa fa-heart"></i> <span class="num">2154</span> </div> <div class="action"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">1171</span> </div> </footer> </a> </article>   <article class="post mutual-block " >  <div class="cover">  <div class="full-wh loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-Eyre-e1ea7d1a" data-vce="image" decoding="async" id="media-e1ea7d1a" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pa1.aminoapps.com/9548/0a7dd897a0123f94fc8ce041a22f280f3d955629r1-600-774_00.gif"  >  </div>  </div> <a class="block content" href="https://aminoapps.com/c/otanix/page/blog/aviso-otanix-em-outro-app/V2pl_Dwt7uMMo06LXq0qD246bz5zZrYl4r"  data-vce="rich-content" data-refer-type="sidebar_post_popular" > <section class="desc"> <h3 class="title">  :warning:  Aviso | Otanix em outro app </h3>  </section> <footer class="actions"> <div class="action"> <i class="fa fa-heart"></i> <span class="num">155</span> </div> <div class="action"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">51</span> </div> </footer> </a> </article>   <article class="post mutual-block " >  <div class="cover">  <div class="full-wh loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-Otanix-f9c8e75f" data-vce="image" decoding="async" id="media-f9c8e75f" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/8101/999b9b994bcc03a97639fb5099e2c48941623044r1-1296-1468v2_00.jpg"  >  </div>  </div> <a class="block content" href="https://aminoapps.com/c/otanix/page/blog/otx-lista-de-conquistas-4-0/kqxB_ekuGu7LRklB06g6kBJqj4rYEnYV1v"  data-vce="rich-content" data-refer-type="sidebar_post_popular" > <section class="desc"> <h3 class="title"> OTX | Lista de Conquistas 4.0 </h3>  </section> <footer class="actions"> <div class="action"> <i class="fa fa-heart"></i> <span class="num">1638</span> </div> <div class="action"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">604</span> </div> </footer> </a> </article>   <article class="post mutual-block " >  <div class="cover">  <div class="full-wh loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-Otanix-279f7da8" data-vce="image" decoding="async" id="media-279f7da8" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/8920/63dbffda21028e8451ceedb79e6120995344845er1-640-719v2_00.jpg"  >  </div>  </div> <a class="block content" href="https://aminoapps.com/c/otanix/page/blog/aberto-recrutamento-nucleo-de-analises/4Kxb_EWcYu2xzEpE6WNXW7nqgjjjkbVQxP"  data-vce="rich-content" data-refer-type="sidebar_post_popular" > <section class="desc"> <h3 class="title"> [ABERTO] Recrutamento | Núcleo de Análises </h3>  </section> <footer class="actions"> <div class="action"> <i class="fa fa-heart"></i> <span class="num">1751</span> </div> <div class="action"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">551</span> </div> </footer> </a> </article>   <article class="post mutual-block " >  <div class="cover">  <div class="full-wh loading" data-vce="fading-media">  <div class="cover community-bg"></div>  <img class="img-cover " alt="amino-Otanix-d9acfcb9" data-vce="image" decoding="async" id="media-d9acfcb9" src="//wa1.aminoapps.com/static/img/lazy.png" data-src="//pm1.aminoapps.com/9166/0e8e9b21ce113d0a102e4032fe80a2f31be56888r1-565-640v2_00.jpg"  >  </div>  </div> <a class="block content" href="https://aminoapps.com/c/otanix/page/blog/otx-envie-me-sua-fanart-2-0/1Qxm_g1f6ubj18bK5xGMBvlGYgg25n2BW"  data-vce="rich-content" data-refer-type="sidebar_post_popular" > <section class="desc"> <h3 class="title"> OTX • Envie-me sua fanart 2.0 </h3>  </section> <footer class="actions"> <div class="action"> <i class="fa fa-heart"></i> <span class="num">6888</span> </div> <div class="action"> <i class="amino-icon amino-icon-comment-splat"></i> <span class="num">15233</span> </div> </footer> </a> </article>  </section> <a href="/c/otanix/" class="more linkblue block" data-refer-type="sidebar_post_more"> Ver mais </a> </section> <!--/.popular-->  </div> </aside>  <a id="call2action-interested" class="disp_none" data-vce="btn-popup" data-popup="join-community" data-popup-icons="//pm1.aminoapps.com/9363/3871b484ae006ac4d47f06bb9ad59fcee78037dar1-736-735v2_128.jpg" data-popup-motivation="proactive" data-popup-tea-source="Proactive Popup"  data-popup-close-by-overlay="1"  ></a> </section>
+
+
+
+<div class="modal" data-true-form="modal">
+    <div class="overlay"></div>
+    <div class="content"></div>
+    <div class="swipe-indicator swipe-indicator-left">
+        <i class="fa fa-arrow-circle-left fa-3x"></i>
+    </div>
+    <div class="swipe-indicator swipe-indicator-right">
+        <i class="fa fa-arrow-circle-right fa-3x"></i>
+    </div>
+</div>
+
+<div class="back-top">
+    <a class="content block pointer">
+        <i class="fa fa-arrow-up fa-2x"></i>
+    </a>
+</div>
+
+<div data-vce="toast">
+    <div class="content">
+    </div>
+</div>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:900&display=swap">
+<link rel="stylesheet" href="//wa1.aminoapps.com/static/dist/css/font-awesome.edabab9db.css">
+<script>
+var s = window.ServerData;
+s.eventLabel = 'page_v2.item.None';
+s.hostUrl = "https://aminoapps.com";
+s.serverName = "aminoapps.com";
+s.referType = "";
+s.facebookClientId = "255884441431980";
+s.googleClientId = "965888619343-p4j7tjogbsffi3u5l1tidk8jlb3s8idb.apps.googleusercontent.com";
+s.recaptchaV3Key = "6LegkZQpAAAAAN1F4YST-0GKQBdkkoZr_xEMC-Mc";
+s.language = "pt"
+s.assetURLPrefix = "//wa1.aminoapps.com/static"
+window._ = function (text) { return window._.dict[text] || text; };
+window._.dict = {"Are you sure you want to leave this Community?": "Voc\u00ea tem certeza de que deseja sair desta Comunidade?", "Copied": "Copiado", "Enjoy your experience in Amino Community? Get the app and join us!": "Gostou da sua experi\u00eancia nesta Comunidade? Baixe o app e junte-se a n\u00f3s!", "Exclusive Posts": "Posts Exclusivos", "Fan Status": "Status de f\u0101", "Flag for Review": "Marcar para Revis\u00e3o", "Get App": "Baixe o App", "Got any thoughts on my post?": "Tem alguma opini\u00e3o sobre meu post?", "Got it": "Entendi", "I\u0027d love to hear your voice! Get the Amino app!": "Eu adoraria ouvir sua voz! Baixe o app Amino!", "Interested in my post? Join this Community and let\u0027s talk!": "Interessado na minha publica\u00e7\u00e3o? Entre nesta Comunidade e vamos conversar!", "Join": "Entrar", "Join Now": "Entrar Agora", "Join this Community and leave a comment!": "Entre nesta Comunidade e deixe um coment\u00e1rio!", "Join this Community and let\u0027s talk!": "Entre nesta Comunidade e vamos conversar!", "Join this Community to hang out with all of us [community_name] members": "Entre nesta Comunidade para curtir com todos os membros da [community_name]", "Join this Community to read my full comment!": "Entre nesta Comunidade para ler meu coment\u00e1rio completo!", "Join this Community to see all our comments!": "Entre nesta Comunidade para ver todos os coment\u00e1rios!", "Keep up with members you follow in this Community": "Acompanhe os membros que voc\u00ea segue nesta Comunidade", "Let\u0027s talk about it on Amino.": "Vamos conversar sobre isto no Amino.", "Loading": "Carregando", "Member Chats": "Chat de Membros", "Oh, you like my comment?": "Oh, voc\u00ea gostou do meu coment\u00e1rio?", "Oh, you like my post?": "Oh, voc\u00ea gostou da minha publica\u00e7\u00e3o?", "Oh, you like my wiki?": "Oh, voc\u00ea gostou da minha Wiki?", "Only members of this Community have the right to vote.": "Apenas membros desta Comunidade t\u00eam o direito de votar.", "Open in App": "Abrir no App", "Put it somewhere people will see it.": "Coloque em algum lugar que pessoas ir\u00e3o ver.", "Reply to:": "Responder para:", "Share this post": "Compartilhar esta publica\u00e7\u00e3o", "Sign in to join this Community.": "Entre para participar desta Comunidade.", "Sign in to leave a comment.": "Entre para comentar.", "Sign in to read more replies.": "Entre para ver mais respostas.", "Sign in to read the whole comment.": "Entre para ler o coment\u00e1rio inteiro.", "Sign in to see all comments.": "Entre para ler todos os coment\u00e1rios.", "Something to say?": "Algo a dizer?", "Something to share? Join this Community to create a post.": "Tem algo a compartilhar? Entre nesta Comunidade para criar uma publica\u00e7\u00e3o.", "There\u0027s all sorts of good stuff happening in this fan club.": "H\u00e1 v\u00e1rias coisas legais acontecendo neste f\u00e3-clube.", "This Community is full of great stuff. Get the app to see it all.": "Esta Comunidade est\u00e1 cheia de coisas incr\u00edveis. Baixe o app para ver tudo.", "This Fan Club is closed.": "Este f\u0101-clube foi fechado.", "This chat is for Community members only.": "Este bate-papo \u00e9 exclusivo para membros da Comunidade.", "Yes": "Sim", "You can only comment if you join this Community.": "Voc\u00ea s\u00f3 pode comentar se entrar nesta Comunidade.", "You can only follow me if you get the Amino app. Do it do it do it.": "Voc\u00ea s\u00f3 pode me seguir se baixar o Amino. Baixa a\u00ed, baixa!", "You can only follow me if you join this Community.": "Voc\u00ea s\u00f3 pode me seguir se entrar nesta Comunidade.", "You can only join my fan club on the Amino app. Do it do it.": "Voc\u00ea s\u00f3 pode se juntar ao meu f\u00e3-clube no aplicativo Amino. Fa\u00e7a fa\u00e7a.", "You can renew your subscription on the Amino app.": "Voc\u00ea pode renovar sua assinatura no Amino.", "You need to get the Amino app to join my Community. See you there!": "Voc\u00ea precisa do app do Amino para entrar em minha Comunidade. Vejo voc\u00ea l\u00e1!", "You need to get the Amino app to start chating with us.": "Voc\u00ea precisa obter o aplicativo Amino para come\u00e7ar a conversar conosco.", "You need to join this Community first!": "Voc\u00ea precisa entrar nesta Comunidade primeiro!", "You need to join this Community to start chatting with us.": "Voc\u00ea precisa entrar nesta Comunidade para conversar conosco.", "[member_count] member online": "[member_count] membro online", "[member_count] members online": "[member_count] membros online", "[nickname] is now online": "[nickname] est\u00e1 online agora", "[nickname] just joined": "[nickname] acabou de entrar"};
+s.isLogin = false;
+s.isMember = false;
+</script>
+
+<script>
+    ServerData.deeplink = "narviiapp://x102292403/item/5fd0ad75-8b8a-4046-b069-5f06478cd666";
+    ServerData.community = {"Android": "https://aminoapps.com/jump/store?id=com.narvii.amino.master", "color": [0, 74, 186, 1.0], "deeplink": "narviiapp://x102292403/description", "endpoint": "otanix", "iOS": "/jump/store?target=ios", "isPrivate": false, "linkDownload": "/c/otanix/download/", "logo": "//cm1.aminoapps.com/9019/f6a1030404b017ea9f008ac41cdde774fe8cf57c_120.jpg", "membersCount": 1550929, "name": "Otanix", "ndcId": "x102292403", "tagline": "Para todos da Fam\u00edlia Otaku!"};
+    ServerData.experiments = {"ab_proactive_download_popup_ciw": "0", "ab_proactive_download_popup_delay": "60"};
+        ServerData.members = {"onlineMembersCount": 44, "onlineMembersList": [{"createdTime": "2024-08-01T21:15:06Z", "icon": "//pm1.aminoapps.com/9513/86fd0ae3c913924bc1528a2f2f3e3c5cc090c57dr1-739-415_00.jpg", "nickname": "Evil Saga", "uid": "5e328f34-cd2e-4450-8d25-c9f61d307f10"}, {"createdTime": "2025-11-18T03:39:01Z", "icon": "//pm1.aminoapps.com/9573/b666d841c2ec777c901b39a66854a3a35f24869cr1-736-610_00.jpg", "nickname": "robert", "uid": "aea2fd79-b3c4-4252-902e-3820090e1822"}, {"createdTime": "2018-09-26T13:34:55Z", "icon": "//pm1.aminoapps.com/9565/cef16ee727f3257a8947036abc68a64acd89c57er1-1170-1170_00.jpg", "nickname": "cecilia sonic fofo", "uid": "586c4c2d-fe3f-44c3-922a-3dadbd9ddaa2"}, {"createdTime": "2025-11-11T18:14:25Z", "icon": "//pm1.aminoapps.com/9566/2199ea433fcd4067c43724a25a8e0d59bc850bbdr1-735-941_00.jpg", "nickname": "bulma", "uid": "84c030be-3ac5-4df4-9057-588201adb821"}, {"createdTime": "2025-08-29T00:15:27Z", "icon": "//pm1.aminoapps.com/9571/505337f2f4c8ade6bd1b55a1737fb48ad0737885r1-736-736_00.jpg", "nickname": "pililiu", "uid": "1b12dec6-7d7c-4ca5-9594-ce3f1b5a4c3c"}]};
+        ServerData.community.listedStatus = 2
+        ServerData.community.templateId = 3
+</script> 
+<!-- Google and TEA Analytics -->
+ 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31833046-14"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
+
+  gtag('config', 'UA-31833046-14');
+</script>
+
+<script>
+  if (window.mixpanel) {
+      window.collectTEA = (name, props) => {
+        window.mixpanel.track(name, props)
+      };
+  }
+
+
+  function sendPageView() {
+    if (window.mixpanel) {
+        window.mixpanel.track("counts_as_page_load");
+    }
+  }
+
+  sendPageView();
+</script>
+
+<script src="//wa1.aminoapps.com/static/dist/js/main.66a93eeff.js"></script>
+<div id="gdpr-cookie-consent"> <h3>Política de Cookies </h3> <p>  This website saves cookies to your browser in order to improve your online experience and show you personalized content. Read our <a class="link" href="http://aminoapps.com/privacy" target="_blank">Privacy Policy</a> and <a class="link" href="https://support.aminoapps.com/hc/en-us/articles/360004040313-Does-Amino-use-cookies-on-its-website-" target="_blank">Cookie Policy</a> to get more information and learn how to set up your preferences. </p> <button class="confirm-close" onclick="closeGDPRCookie()">Aceitar</button> </div> <script>
+function closeGDPRCookie() {
+    document.cookie = 'gdpr_cookie_agreee=1;max-age=31536000;path=/';
+    var consent = document.querySelector('#gdpr-cookie-consent');
+    consent.parentNode.removeChild(consent);
+}
+</script> <style>
+#gdpr-cookie-consent {
+    position: fixed;
+    padding: 14px;
+    font-size: 13px;
+    background: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+    bottom: 8px;
+    right: 87px;
+    max-width: 410px;
+    color: #1a1a1a;
+    z-index: 5005;
+    /*1145141919810;
+    $z-global-modal: 5010;
+    */
+}
+#gdpr-cookie-consent > h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 19px;
+}
+#gdpr-cookie-consent .close {
+    float: right;
+    color: #bdbdbd;
+    font-size: 20px;
+    line-height: 16px;
+}
+#gdpr-cookie-consent .link {
+    color: #0F86FF;
+}
+#gdpr-cookie-consent > p {
+    margin: 0;
+    margin-top: 8px;
+    line-height: 15px;
+}
+#gdpr-cookie-consent > .confirm-close {
+    background: none;
+    border: 1px solid #979797;
+    outline: none;
+    border-radius: 8px;
+    float: right;
+    padding: 8px 25px;
+    font-size: 14px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.not-mobile #gdpr-cookie-consent > .confirm-close:hover {
+    background: #f1f1f1;
+}
+@media (max-width: 640px) {
+#gdpr-cookie-consent {
+    left: 0;
+    right: -1px;
+    bottom: 50px;
+    border-radius: 0;
+    max-width: none;
+}
+}
+</style> 
+</body>
+<footer>
+  <!-- Quantcast Tag --> <script type="text/javascript">
+    var _qevents = _qevents || [];
+    (function() {
+    var elem = document.createElement('script');
+    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+    elem.async = true;
+    elem.type = "text/javascript";
+    var scpt = document.getElementsByTagName('script')[0];
+    scpt.parentNode.insertBefore(elem, scpt);
+    })();
+    _qevents.push({
+    qacct: "p-3bDtRer0SSNWT",
+    uid: "ops@medialab.la"
+    });
+</script> <noscript>
+    <div style="display:none;">
+    <img src="//pixel.quantserve.com/pixel/p-3bDtRer0SSNWT.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+</noscript> <!-- The core Firebase JS SDK is always required and must be listed first --> <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-app.js"></script> <!-- TODO: Add SDKs for Firebase products that you want to use https://firebase.google.com/docs/web/setup#available-libraries --> <script src="https://www.gstatic.com/firebasejs/7.23.0/firebase-analytics.js"></script> <script>
+  // Your web app's Firebase configuration
+  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+  var firebaseConfig = {
+    apiKey: "AIzaSyDUbgzJwO1Fd5oawjcV3x8HkWGHET-Ky8Q",
+    authDomain: "golden-shine-845.firebaseapp.com",
+    databaseURL: "https://golden-shine-845.firebaseio.com",
+    projectId: "golden-shine-845",
+    storageBucket: "golden-shine-845.appspot.com",
+    messagingSenderId: "641940763521",
+    appId: "1:641940763521:web:26ac22ae145b37182d6e80",
+    measurementId: "G-9SJ4LCCH1X"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script> </footer>
+</html>
